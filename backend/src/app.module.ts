@@ -9,7 +9,7 @@ import { HouseModule } from './house/house.module';
 
 @Module({
   imports: [
-      MongooseModule.forRoot('mongodb://crimeforhouse:v8wMH66uoG1eQ5NzlxhyyU6CnQ3TLLo0BcliU2rwnPHS48LiSnh5g86nrzrPwZVLtt6zZx7k9sYnP08d9jzosg==@crimeforhouse.documents.azure.com:10255/?ssl=true',
+      MongooseModule.forRoot('mongodb://localhost/property-app,
           {useNewUrlParser: true}
           ),
       // CsvModule,
