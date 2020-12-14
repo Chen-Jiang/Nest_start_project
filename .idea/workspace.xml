@@ -19,29 +19,8 @@
       <change afterPath="$PROJECT_DIR$/backend/src/house/house.providers.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/house/interfaces/house.interface.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/house/schema/house.schema.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/2017.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/2017.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/2018.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/2018re.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/Create.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/Nz.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/PNCC_Area_Units.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/area-unit-2013.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/area.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/crime.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/fix_area.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/revise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/territorial-authority-2018-generalised.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/houses/territorial-authority-2018-generalised.shp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
   </component>
   <component name="ProjectId" id="1iIoupyUZR8qhSZvwbwaM5YF1gE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,12 +49,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/components/houses" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/backend/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,6 +95,12 @@
       <workItem from="1604136207170" duration="3664000" />
       <workItem from="1604226113133" duration="1979000" />
       <workItem from="1604280068755" duration="168000" />
+      <workItem from="1607913883958" duration="910000" />
+      <workItem from="1607914936679" duration="489000" />
+      <workItem from="1607915579992" duration="1812000" />
+      <workItem from="1607934149902" duration="3051000" />
+      <workItem from="1607941430768" duration="712000" />
+      <workItem from="1607942366293" duration="709000" />
     </task>
     <servers />
   </component>
@@ -132,40 +118,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="209" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603796242537">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="209" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1603796242537" />
-    <state x="1704" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603754013081" />
-    <state x="1935" y="290" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602117002958">
-      <screen x="1280" y="-59" width="1920" height="1080" />
-    </state>
-    <state x="1935" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1602117002958" />
-    <state x="1908" y="163" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1603753881491">
-      <screen x="1280" y="-59" width="1920" height="1080" />
-    </state>
-    <state x="1908" y="163" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603753881491" />
-    <state x="343" y="260" key="Registry" timestamp="1603796486793">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="1805" y="292" key="Registry/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603753860476" />
-    <state x="343" y="260" key="Registry/0.0.1280.800@0.0.1280.800" timestamp="1603796486793" />
-    <state x="1492" y="-28" key="SettingsEditor" timestamp="1603753629793">
-      <screen x="1280" y="-59" width="1920" height="1080" />
-    </state>
-    <state x="1492" y="-28" key="SettingsEditor/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603753629793" />
-    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1603420392493" />
-    <state x="2093" y="401" key="VCS.ChangelistChooser" timestamp="1603936913184">
-      <screen x="1280" y="-59" width="1920" height="1080" />
-    </state>
-    <state x="2093" y="401" key="VCS.ChangelistChooser/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603936913184" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup" timestamp="1603796527238">
-      <screen x="0" y="23" width="1280" height="709" />
-    </state>
-    <state x="1905" y="182" width="670" height="676" key="search.everywhere.popup/0.0.1280.800/1280.-59.1920.1080@1280.-59.1920.1080" timestamp="1603753741708" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1603796409456" />
-    <state x="417" y="179" width="670" height="501" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1603796527238" />
   </component>
 </project>
