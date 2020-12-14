@@ -15,7 +15,9 @@
 </template>
 
 <script>
-import { area } from './fix';
+// import { area } from './fix';
+import { area } from "@/components/houses/fix222";
+// import { nz_map } from "@/nz-map";
 // import { crime_data } from './crime';
 // import { world } from "@/components/houses/world_map";
 import { Zoom, MapsTooltip } from '@syncfusion/ej2-vue-maps';

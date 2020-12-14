@@ -57,7 +57,7 @@ with open('fix_area.json', 'r') as file:
 
 file.close()
 
-with open('fix.json','w') as out:
+with open('fix111.json','w') as out:
     json.dump(all_data, out)
     out.close()
 
